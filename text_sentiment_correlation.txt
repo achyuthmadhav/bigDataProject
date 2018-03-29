@@ -1,0 +1,4 @@
+ vader afinn huliu
+vader 1.000 0.410 0.326
+afinn 0.410 1.000 0.649
+huliu 0.326 0.649 1.000
